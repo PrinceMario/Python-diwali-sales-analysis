@@ -1,4 +1,5 @@
 # Python-diwali-sales-analysis
+![image](https://github.com/user-attachments/assets/154c6e37-903a-4f0c-b453-43a420b41173)
 
 ## Project Overview
  This project is to analyze sales data during the Diwali season to understand trends, patterns, and customer behavior, in order to optimize marketing strategies and maximize revenue for future Diwali seasons.
@@ -32,9 +33,8 @@ Data visualization is crucial for gaining insights from your data and communicat
 ### Exploratory Data Analysis
 #### Gender
  - plotting a bar chart for Gender and it's count
-<div align="center">
-   <img src=![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)>
- </div>
+
+   ![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)>
 
    ![Screenshot 2024-07-14 161303](https://github.com/user-attachments/assets/4335f4d0-c28d-4a5a-b27f-b2fd4ebe6c4f)
 
