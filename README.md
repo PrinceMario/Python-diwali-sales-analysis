@@ -33,9 +33,7 @@ Data visualization is crucial for gaining insights from your data and communicat
 #### Gender
  - plotting a bar chart for Gender and it's count
    
-   <div align="center">
-     ![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)
-   </div>
+   ![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)
 
    ![Screenshot 2024-07-14 161303](https://github.com/user-attachments/assets/4335f4d0-c28d-4a5a-b27f-b2fd4ebe6c4f)
 
