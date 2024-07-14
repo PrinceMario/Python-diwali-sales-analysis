@@ -30,9 +30,14 @@
 Data visualization is crucial for gaining insights from your data and communicating findings effectively. In Python, libraries like matplotlib and seaborn provide powerful tools for creating various types of visualizations.
 
 ### Exploratory Data Analysis
-####Gender
+#### Gender
+ - plotting a bar chart for Gender and it's count
+   ![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)
 
-![Screenshot 2024-07-14 161014](https://github.com/user-attachments/assets/c3a9ec07-c69b-4578-8e6c-f284f968c6c3)
+   ![Screenshot 2024-07-14 161303](https://github.com/user-attachments/assets/4335f4d0-c28d-4a5a-b27f-b2fd4ebe6c4f)
 
-![Screenshot 2024-07-14 161303](https://github.com/user-attachments/assets/4335f4d0-c28d-4a5a-b27f-b2fd4ebe6c4f)
+- plotting a bar chart for gender vs total amount
+  ![image](https://github.com/user-attachments/assets/b2ffa89a-52d8-4fb2-94e0-fe4f79aaf328)
+
+  ![image](https://github.com/user-attachments/assets/c30b8063-ae09-4a91-9800-99060cf17dcf)
 
