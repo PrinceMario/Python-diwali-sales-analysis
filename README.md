@@ -75,7 +75,49 @@ Data visualization is crucial for gaining insights from your data and communicat
   ![image](https://github.com/user-attachments/assets/278ec6fe-112f-40e8-b76d-450c5d9e9cd9)
 
   ![image](https://github.com/user-attachments/assets/58a49516-7492-43ee-84a0-3941efaced0b)
+  
+- Amount spent based on Martial status and gender
+
+  ![image](https://github.com/user-attachments/assets/fee32d9d-182c-4295-b716-caf7aa14fc56)
+
+  ![image](https://github.com/user-attachments/assets/a43886c1-ae6f-42b4-8725-069d15a7a912)
+  
+#### Occupation
+- plotting a bar chart for occupation
+
+  ![image](https://github.com/user-attachments/assets/cebe3dfa-ff70-4f69-93e1-27434e42de5c)
+
+  ![image](https://github.com/user-attachments/assets/809a8e31-3356-4026-ad3c-aef788302334)
+
+- Amount spent based on occupation
+
+  ![image](https://github.com/user-attachments/assets/52fd3b45-e8fa-4ecd-82bb-54f988ffb7f1)
+
+  ![image](https://github.com/user-attachments/assets/15f4a5b6-2c42-4702-bce1-b461a4ca8645)
 
 
+#### Product category
 
+- plotting a bar chart for product category
+
+  ![image](https://github.com/user-attachments/assets/01906ce2-2b19-4db0-8e77-6c370eb60736)
+
+  ![image](https://github.com/user-attachments/assets/6e58e30b-4d2a-4ac4-b4cd-2eb962b7a04f)
+
+- Amount spent based on product category
+
+  ![image](https://github.com/user-attachments/assets/6ca47a31-6955-4ef7-b789-51b4e09c970c)
+
+  ![image](https://github.com/user-attachments/assets/e07768f4-cd87-4fc2-b96e-a03a2265b88f)
+
+#### Product 
+- Top 10 most sold products
+
+  ![image](https://github.com/user-attachments/assets/5a996fd0-97e4-4b91-a201-a26bcc78b0cd)
+
+  ![image](https://github.com/user-attachments/assets/d4f851e7-30ef-4b67-b64c-31d2d1f8e188)
+
+## Conclusion
+
+Married women age group 26-35 yrs from UP,  Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
   
